@@ -14,8 +14,8 @@
   </head>
   <body>
      <section class="page-header">
-      <h1 class="project-name">Decodeapp heroku</h1>
-      <h2 class="project-tagline">Heroku boilerplate</h2>
+      <h1 class="project-name">Store and Blog App</h1>
+      <h2 class="project-tagline">E-commerce boilerplate</h2>
       <a href="https://github.com/Yanians/store-and-blog-app" class="btn">View on GitHub</a>
     </section>
     <ul>
