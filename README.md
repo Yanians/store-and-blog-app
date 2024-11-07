@@ -13,9 +13,14 @@
     <title>Store and Blog App</title>
   </head>
   <body>
+     <section class="page-header">
+      <h1 class="project-name">Decodeapp heroku</h1>
+      <h2 class="project-tagline">Heroku boilerplate</h2>
+      <a href="https://github.com/Yanians/store-and-blog-app" class="btn">View on GitHub</a>
+    </section>
     <ul>
       <li>Use git bash and follow these commands
-            <pre>$ cd /d //depending on your root directory
+            <pre>$ cd /d 
           $ git clone https://github.com/yourname/yourrepository
           $ cd your-repository
           $ npm install
@@ -31,7 +36,7 @@
           
           Note: Go to your browser and type 'http://localhost:3000'
           </pre>  
-    </li>   
+      </li>   
     </ul>
   </body>
 </html>
